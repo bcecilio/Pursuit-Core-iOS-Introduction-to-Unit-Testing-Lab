@@ -1,0 +1,123 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What%20is%20the%20largest%20city%20and%20commercial%20capital%20of%20Sri%20Lanka%3F",
+            "correct_answer": "Colombo",
+            "incorrect_answers": [
+                "Moratuwa",
+                "Negombo",
+                "Kandy"
+            ]
+        },
+        {
+            "category": "Entertainment%3A%20Video%20Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What%20was%20the%20first%20%22Team%20Fortress%202%22%20update%20to%20include%20a%20war%3F",
+            "correct_answer": "Sniper%20vs.%20Spy%20Update",
+            "incorrect_answers": [
+                "WAR%21%20Update",
+                "Meet%20Your%20Match%20Update",
+                "Spy%20Vs.%20Engineer%20Update"
+            ]
+        },
+        {
+            "category": "Entertainment%3A%20Video%20Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Metal%20Gear%20Solid%20V%3A%20The%20Phantom%20Pain%20runs%20on%20the%20Fox%20Engine.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Science%20%26%20Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What%20term%20is%20best%20associated%20with%20Sigmund%20Freud%3F",
+            "correct_answer": "Psychoanalysis",
+            "incorrect_answers": [
+                "Cognitive-Behavioral%20Therapy",
+                "Theory%20of%20Gravity",
+                "Dialectical%20Behavior%20Therapy"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which%20car%20manufacturer%20won%20the%202016%2024%20Hours%20of%20Le%20Mans%3F",
+            "correct_answer": "Porsche",
+            "incorrect_answers": [
+                "Toyota",
+                "Audi",
+                "Ferrari"
+            ]
+        },
+        {
+            "category": "Science%20%26%20Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which%20of%20these%20elements%20on%20the%20Periodic%20Table%20is%20a%20Noble%20Gas%3F",
+            "correct_answer": "Neon",
+            "incorrect_answers": [
+                "Potassium",
+                "Iodine",
+                "Colbalt"
+            ]
+        },
+        {
+            "category": "Entertainment%3A%20Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In%20the%201999%20movie%20Fight%20Club%2C%20which%20of%20these%20is%20not%20a%20rule%20of%20the%20%22fight%20club%22%3F",
+            "correct_answer": "Always%20wear%20a%20shirt",
+            "incorrect_answers": [
+                "You%20do%20not%20talk%20about%20FIGHT%20CLUB",
+                "Only%20two%20guys%20to%20a%20fight",
+                "Fights%20will%20go%20on%20as%20long%20as%20they%20have%20to"
+            ]
+        },
+        {
+            "category": "General%20Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When%20was%20Hubba%20Bubba%20first%20introduced%3F",
+            "correct_answer": "1979",
+            "incorrect_answers": [
+                "1984",
+                "1972",
+                "1980"
+            ]
+        },
+        {
+            "category": "Vehicles",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which%20Audi%20does%20not%20use%20Haldex%20based%20all%20wheel%20drive%20system%3F",
+            "correct_answer": "Audi%20A8",
+            "incorrect_answers": [
+                "Audi%20TT",
+                "Audi%20S3",
+                "Audi%20A3"
+            ]
+        },
+        {
+            "category": "Celebrities",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Gabe%20Newell%20was%20born%20in%20which%20year%3F",
+            "correct_answer": "1962%20",
+            "incorrect_answers": [
+                "1970",
+                "1960",
+                "1972"
+            ]
+        }
+    ]
+}
